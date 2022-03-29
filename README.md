@@ -2,7 +2,9 @@
 
 This repository is a mirror-repository of FireMonkey (Firefox Addon).
 
-If you want to get the original source-code, download xpi-file from addons.mozilla.org. ([FireMonkey](https://addons.mozilla.org/ja/firefox/addon/firemonkey/))
+If you want to get the original file (contains source-code), download xpi-file from addons.mozilla.org ([FireMonkey](https://addons.mozilla.org/ja/firefox/addon/firemonkey/)).
+
+If you must use files from this repository, clone and zip `firemoneky@eros.man` directory and rename with the `.xpi` extension.
 
 ## What is
 
